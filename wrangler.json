@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "nasrumikail-ethiopia",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9110e61d-4130-4901-80e9-1d59e01387b7",
+      "database_name": "Nasrumikail"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
